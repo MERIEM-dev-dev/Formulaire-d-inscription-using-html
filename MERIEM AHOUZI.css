@@ -1,0 +1,23 @@
+
+
+fieldset{
+    border-color: rgb(0, 0, 0);
+    width: 50%;
+    position: relative;
+    left: 22%;
+    background-image:url(ka.jpg);
+    background-size: 100% 100%;
+}
+
+.af{
+    display:inline-block
+}
+
+Legend{
+    font-size: 30px;
+}
+
+
+#ca{
+    background-color: rgb(151, 217, 255);
+}
